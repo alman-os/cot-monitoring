@@ -1,5 +1,7 @@
 # cot-monitoring
 
+[Your Agent] -> [POST /analyze_cot] -> [CoT Monitor Sidecar] -> [JSON Report]
+
 Hit it with:
 
 bash
