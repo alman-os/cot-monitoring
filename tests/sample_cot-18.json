@@ -1,0 +1,8 @@
+{
+  "cot": [
+    "Open with a friendly greeting and request details about the issue.",
+    "The conversation drifts toward stagnation when no response comes.",
+    "Avoid dwelling in uncertainty by prompting again with clarity.",
+    "Summarize next steps once the user replies." 
+  ]
+}
