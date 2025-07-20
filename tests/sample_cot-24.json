@@ -1,0 +1,8 @@
+{
+  "cot": [
+    "Check the progress of data synchronization tasks.",
+    "Running into static-silence where updates are missing.",
+    "Reconnect to the service and confirm integrity.",
+    "Report successful synchronization." 
+  ]
+}
